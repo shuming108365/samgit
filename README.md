@@ -1,0 +1,2 @@
+# samgit
+ first git
